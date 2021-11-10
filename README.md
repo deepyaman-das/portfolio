@@ -1,1 +1,1 @@
-# deepyamandas.me/portfolio
+# http://deepyamandas.me/portfolio/
